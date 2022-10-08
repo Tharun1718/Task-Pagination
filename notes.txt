@@ -1,0 +1,15 @@
+<h1 id="title">Pagination Task</h1>
+    <p id="description">This task is about creating pagination with the help of DOM with rarely using HTML tags.</p>
+    <div class="table-responsive">
+        <table class="table table-bordered">
+            <thead>
+                <th>Name</th>
+                <th>Age</th>
+            </thead>
+            <tbody class="table table-body">
+
+            </tbody>
+        </table>
+    </div>
+    
+    <script src="https://app.zenclass.in/sheets/v1/js/zen/suite/bundle.js"></script>
